@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/premshetty/Create/static/css/main.fd9fbf77.chunk.css",
+    "main.js": "/premshetty/Create/static/js/main.12e7463d.chunk.js",
+    "main.js.map": "/premshetty/Create/static/js/main.12e7463d.chunk.js.map",
+    "runtime-main.js": "/premshetty/Create/static/js/runtime-main.0d47a409.js",
+    "runtime-main.js.map": "/premshetty/Create/static/js/runtime-main.0d47a409.js.map",
+    "static/css/2.450bcdb5.chunk.css": "/premshetty/Create/static/css/2.450bcdb5.chunk.css",
+    "static/js/2.fbb0ae11.chunk.js": "/premshetty/Create/static/js/2.fbb0ae11.chunk.js",
+    "static/js/2.fbb0ae11.chunk.js.map": "/premshetty/Create/static/js/2.fbb0ae11.chunk.js.map",
+    "static/js/3.c6c27b96.chunk.js": "/premshetty/Create/static/js/3.c6c27b96.chunk.js",
+    "static/js/3.c6c27b96.chunk.js.map": "/premshetty/Create/static/js/3.c6c27b96.chunk.js.map",
+    "index.html": "/premshetty/Create/index.html",
+    "static/css/2.450bcdb5.chunk.css.map": "/premshetty/Create/static/css/2.450bcdb5.chunk.css.map",
+    "static/css/main.fd9fbf77.chunk.css.map": "/premshetty/Create/static/css/main.fd9fbf77.chunk.css.map",
+    "static/js/2.fbb0ae11.chunk.js.LICENSE.txt": "/premshetty/Create/static/js/2.fbb0ae11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d47a409.js",
+    "static/css/2.450bcdb5.chunk.css",
+    "static/js/2.fbb0ae11.chunk.js",
+    "static/css/main.fd9fbf77.chunk.css",
+    "static/js/main.12e7463d.chunk.js"
+  ]
+}
