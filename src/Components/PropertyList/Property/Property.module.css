@@ -1,0 +1,24 @@
+.Property{
+  border: 3px solid white;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
+.Property img{
+  width : 60%;
+}
+
+.PropertyName{
+  margin: 5px;
+  text-align: left;
+}
+
+@media(min-width : 600px){
+  .Property{
+    width : 500px;
+  }
+  .Property img{
+    width : 500px;
+  }
+}

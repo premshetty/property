@@ -1,0 +1,24 @@
+.PropertyDesc {
+  margin: 5px;
+  background-color: white;
+  color: white;
+  border: 1px solid navajowhite;
+  text-align: right;
+}
+
+.PropertyDesc .PropertyName{
+  color: black;
+  text-align: left;
+  margin: 10px;
+}
+
+.PropertyDesc button{
+  margin-left: 11px;  
+  width: 65px;
+  padding: 5px;
+  color: black;
+  float: right;
+  position: relative;
+  top : -35px;
+  right: 10px;
+}

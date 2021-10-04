@@ -1,0 +1,12 @@
+.Search{
+  border: 1px solid black;
+  margin: 10px;
+  width: 80%;
+  padding: 10px;
+}
+
+@media(min-width : 600px){
+  .Search{
+    width : 370px;
+  }
+}
